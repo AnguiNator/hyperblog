@@ -1,7 +1,6 @@
 Hola este es el primer git 
 
-Apodo AnguiNator
-Edad 25
-Numero de Uni 4
+Apodo Chucha Loca 
+Edad 20
 Le voy al Ame 
 Juego en el Yoky
