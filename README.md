@@ -1,2 +1,9 @@
-# hyperblog
-Blog para mi curso de platzi
+# AnguiNator
+
+ Aprendiendo GITHUB en [Platzi](https://platzi.com/ "PLATZI") 
+
+# Editor.md
+
+
+
+###End
