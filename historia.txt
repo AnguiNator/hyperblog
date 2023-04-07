@@ -7,10 +7,4 @@ Juego en el Yoky
 
 Master 1 
 
-<<<<<<< HEAD
 Master 2
-=======
-Experimento 2 
-
-Master 1 
->>>>>>> 9ea142c (Exp 2)
