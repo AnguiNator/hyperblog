@@ -2,7 +2,9 @@
 
  Aprendiendo GITHUB en [Platzi](https://platzi.com/ "PLATZI") 
 
-# Editor.md
+## Aquí vas a encontrar
+
+*Creado por el ANguinator
 
 
 
