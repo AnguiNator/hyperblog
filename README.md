@@ -5,6 +5,7 @@
 ## Aquí vas a encontrar
 
 *Creado por el ANguinator
+*Incluye ejempos con Jiren y el Negro
 
 
 
